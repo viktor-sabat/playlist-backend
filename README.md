@@ -119,9 +119,9 @@ Below are the main API endpoints for managing songs, playlists, and users. The r
 2. **Import the Postman Collection**:
 
     - Open Postman.
-    - Click on the "Import" button in the top left corner.
-    - Select the "File" tab and choose `playlist-backend\src\test\postman_tests\playlists_backend.postman_collection.json`.
-    - Click "Open" to import the collection.
+    - Click on the `Import` button in the top left corner.
+    - Select the `File` tab and choose `playlist-backend\src\test\postman_tests\playlists_backend.postman_collection.json`.
+    - Click `Open` to import the collection.
 
 3. **Run the Tests**:
 
