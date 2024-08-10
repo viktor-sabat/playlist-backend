@@ -70,12 +70,12 @@ Below are the main API endpoints for managing songs, playlists, and users. The r
 
 ![GET](https://img.shields.io/badge/GET-green)    Retrieve all Songs from a specific album  
    
-    /api/v1/song?album=…
+    /api/v1/song/{album}
  
 
 ![GET](https://img.shields.io/badge/GET-green)    Retrieve all Songs with a length between `minLength` and `maxLength`  
    
-    /api/v1/song?minLength=…&maxLength=…
+    /api/v1/song/{minLength}/{maxLength}
     
 
 ![POST](https://img.shields.io/badge/POST-blue)    Create a new User  
