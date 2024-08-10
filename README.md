@@ -6,9 +6,12 @@ PlaylistHub is a backend service for managing songs and playlists, built using J
 
 ## Technologies Used
 
-- **Java Spring Boot**: For the backend service and API development.
-- **H2 Database**: In-memory database for development and testing.
-- **Postman**: For API testing and validation.
+| Tool | Description |
+| --- | --- |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) **Java Spring Boot** | Used for developing the backend service and API endpoints. |
+| ![H2 Database](https://img.shields.io/badge/H2-00979D?style=for-the-badge&logo=h2&logoColor=white) **H2 Database** | An in-memory database used for development and testing. |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) **Postman** | Utilized for API testing and validation using a JSON collection. |
+
 
 ## Getting Started
 
