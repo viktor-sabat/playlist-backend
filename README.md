@@ -15,13 +15,13 @@ PlaylistHub is a backend service for managing songs and playlists, built using J
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/viktor-sabat/playlist_backend
+    git clone https://github.com/viktor-sabat/playlist-backend
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```sh
-    cd playlist_backend
+    cd playlist-backend
     ```
 
 3. **Build and Run the Application:**
@@ -116,7 +116,7 @@ Below are the main API endpoints for managing songs, playlists, and users. The r
 
     - Open Postman.
     - Click on the "Import" button in the top left corner.
-    - Select the "File" tab and choose `playlist_backend\src\test\postman_tests\playlists_backend.postman_collection.json`.
+    - Select the "File" tab and choose `playlist-backend\src\test\postman_tests\playlists_backend.postman_collection.json`.
     - Click "Open" to import the collection.
 
 3. **Run the Tests**:
