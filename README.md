@@ -2,7 +2,7 @@
 
 ## Description
 
-PlaylistHub is a backend service for managing songs and playlists, built using Java Spring Boot. It uses an H2 database for persistence and includes a set of API endpoints to handle operations related to songs, playlists, and users. You can use Postman to run API tests using the provided JSON collection.
+Playlist is a backend service for managing songs and playlists, built using Java Spring Boot. It uses an H2 database for persistence and includes a set of API endpoints to handle operations related to songs, playlists, and users. You can use Postman to run API tests using the provided JSON collection.
 
 ## Technologies Used
 
